@@ -1,0 +1,20 @@
+{
+  "name": "connect-csrf-cookie",
+  "version": "0.0.1",
+  "description": "Sets a cookie containing the CSRF token. Useful for Single page apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olalonde/connect-csrf-cookie.git"
+  },
+  "keywords": [
+    "connect",
+    "express",
+    "csrf"
+  ],
+  "author": "Olivier Lalonde <olalonde@gmail.com>",
+  "license": "MIT"
+}
