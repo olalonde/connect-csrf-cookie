@@ -16,5 +16,8 @@
     "csrf"
   ],
   "author": "Olivier Lalonde <olalonde@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cookies": "~0.3.6"
+  }
 }
