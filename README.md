@@ -7,6 +7,9 @@ Single Page Apps which make lots of AJAX calls.
 This middleware requires session support and the csrf middleware, thus
 should be added somewhere below session(), cookieParser() and csrf().
 
+See this [answer on StackOverflow](http://stackoverflow.com/a/20518324/96855) for
+the security implications.
+
 ## Install
   
     npm install connect-csrf-cookie
